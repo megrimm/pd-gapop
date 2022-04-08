@@ -22,7 +22,9 @@ windows:
 pathtoflext/build.bat
  
 linux/OSX:
-sh patchtoflext/build.sh
+If flext is installed next to pd-gapop
+$ cd pd-gapop
+$ bash ../pd-flext/build.sh pd gcc
 
 
 2) old build system:

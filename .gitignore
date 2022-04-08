@@ -1,0 +1,5 @@
+
+pd-darwin/release-single/GApop.pd_darwin
+*.pd_darwin
+*.opp
+*.gch
